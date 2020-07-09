@@ -1,10 +1,1 @@
- Volume in drive C is OS
- Volume Serial Number is A481-2FBA
-
- Directory of C:\Users\Anamika.Kujur\Desktop\MyGitProject
-
-08-07-2020  20:30    <DIR>          .
-08-07-2020  20:30    <DIR>          ..
-08-07-2020  20:30                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  935,267,991,552 bytes free
+this is a test file.
